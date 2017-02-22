@@ -1,0 +1,3 @@
+[submodule "sudoku/python"]
+	path = sudoku/python
+	url = https://github.com/oforero/AIND-Sudoku.git
