@@ -1,3 +1,6 @@
 [submodule "sudoku/python"]
 	path = sudoku/python
 	url = https://github.com/oforero/AIND-Sudoku.git
+[submodule "AI-isolation/python"]
+	path = AI-isolation/python
+	url = https://github.com/oforero/AIND-Isolation.git
