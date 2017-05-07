@@ -4,6 +4,6 @@
 [submodule "AI-isolation/python"]
 	path = AI-isolation/python
 	url = https://github.com/oforero/AIND-Isolation.git
-[submodule "AIND-Planning"]
-	path = AIND-Planning
+[submodule "AIND-Planning/python"]
+	path = AIND-Planning/python
 	url = https://github.com/oforero/AIND-Planning.git
