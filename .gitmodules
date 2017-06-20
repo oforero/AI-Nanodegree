@@ -10,6 +10,3 @@
 [submodule "AIND-Recognizer/python"]
 	path = AIND-Recognizer/python
 	url = https://github.com/oforero/AIND-Recognizer.git
-[submodule "Student-admission-keras"]
-	path = aind2-dl
-	url = https://github.com/udacity/aind2-dl.git
