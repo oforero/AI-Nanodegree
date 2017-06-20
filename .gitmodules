@@ -10,3 +10,6 @@
 [submodule "AIND-Recognizer/python"]
 	path = AIND-Recognizer/python
 	url = https://github.com/oforero/AIND-Recognizer.git
+[submodule "aind2-dl"]
+	path = aind2-dl
+	url = https://github.com/oforero/aind2-dl.git
