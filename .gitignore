@@ -11,3 +11,4 @@ __pycache__
 *.json
 tests/.cache/v/cache/lastfailed
 .cache/v/cache/lastfailed
+*.zip
