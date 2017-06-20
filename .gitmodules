@@ -7,3 +7,6 @@
 [submodule "AIND-Planning/python"]
 	path = AIND-Planning/python
 	url = https://github.com/oforero/AIND-Planning.git
+[submodule "AIND-Recognizer/python"]
+	path = AIND-Recognizer/python
+	url = https://github.com/oforero/AIND-Recognizer.git
