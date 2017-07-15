@@ -13,3 +13,9 @@
 [submodule "aind2-dl"]
 	path = aind2-dl
 	url = https://github.com/oforero/aind2-dl.git
+[submodule "aind2-cnn"]
+	path = aind2-cnn
+	url = https://github.com/oforero/aind2-cnn.git
+[submodule "dog-project"]
+	path = dog-project
+	url = https://github.com/oforero/dog-project.git
