@@ -22,3 +22,9 @@
 [submodule "aind2-rnn"]
 	path = aind2-rnn
 	url = https://github.com/oforero/aind2-rnn.git
+[submodule "AIND-CV-Mimic"]
+	path = AIND-CV-Mimic
+	url = https://github.com/oforero/AIND-CV-Mimic.git
+[submodule "AIND-CV-FacialKeypoints"]
+	path = AIND-CV-FacialKeypoints
+	url = https://github.com/oforero/AIND-CV-FacialKeypoints.git
